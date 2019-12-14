@@ -1,6 +1,6 @@
 package thingabee
 
-import "github.com/emicklei/thingabee/log/v3"
+import "github.com/emicklei/thingabee/log"
 
 func Ping() {
 	log.Say("ping")
