@@ -1,1 +1,3 @@
 github.com/emicklei/thingabee v2.0.1+incompatible h1:oU+RQVbyV81LTqmslOr2uaJJLXEspp+v0H9Zf+Iu50E=
+github.com/emicklei/thingabee/log/v2 v2.0.0-20191214055724-d65d0b299bed h1:vRtdE0GXEiz040whAAgfQ/+oNK/hG5hmVfUQwGnl/mk=
+github.com/emicklei/thingabee/log/v2 v2.0.0-20191214055724-d65d0b299bed/go.mod h1:wQsekvW1icIInt9hrkY7fawOFRDIvKdCnej5YA7dMAU=
